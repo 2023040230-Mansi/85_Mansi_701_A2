@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "firstname": "Rahul",
+    "lastname": "Sharma",
+    "semester": "1",
+    "div": "A",
+    "gender": "Male"
+  },
+  {
+    "id": 2,
+    "firstname": "Priya",
+    "lastname": "Patel",
+    "semester": "2",
+    "div": "B",
+    "gender": "Female"
+  },
+  {
+    "id": 3,
+    "firstname": "Amit",
+    "lastname": "Shah",
+    "semester": "3",
+    "div": "A",
+    "gender": "Male"
+  },
+  {
+    "id": 4,
+    "firstname": "Neha",
+    "lastname": "Mehta",
+    "semester": "4",
+    "div": "C",
+    "gender": "Female"
+  },
+  {
+    "id": 5,
+    "firstname": "Rohan",
+    "lastname": "Desai",
+    "semester": "5",
+    "div": "B",
+    "gender": "Male"
+  },
+  {
+    "id": 6,
+    "firstname": "Sneha",
+    "lastname": "Joshi",
+    "semester": "6",
+    "div": "A",
+    "gender": "Female"
+  }
+]
